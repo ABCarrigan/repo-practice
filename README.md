@@ -17,3 +17,32 @@ a horizontal rule
 [google](https://www.google.com/)
 ![some alt text]image.jpg
 
+| oh | look | a | table |
+| --- | --- | --- | --- |
+| crazy | isn't | it | ? |
+| the | tables | have | turned |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
+
+oh look, [^1]<br>
+
+[^1]: a foot note!
+
+### the biggest heading {#biggest-heading}
+
+term
+: definition
+
+~~check this strike~~
+
+[x] ==stay awake==
+[ ] take a nap
+[ ] :sob: x^2^
+[x] drink H~2~0
+
