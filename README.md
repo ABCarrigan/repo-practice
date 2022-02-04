@@ -41,8 +41,8 @@ term
 
 ~~check this strike~~
 
-[x] ==stay awake==
-[ ] take a nap
-[ ] :sob: x^2^
-[x] drink H~2~0
+- [x] ==stay awake==
+- [ ] take a nap
+- [ ] :sob: x^2^
+- [x] drink H~2~0
 
