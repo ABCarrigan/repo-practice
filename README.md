@@ -2,8 +2,8 @@
 # header 1: This is practice in my software engineering course <br>
 ## h2: this is me making a change wow! <br>
 ### h3: anotha one <br>
-==I'm feeling== <b>bold</b><br>
-<i>Very</i><u><b>bold</b></u> <br>
+<mark>I'm feeling</mark> <b>bold</b><br>
+<i>Very </i><u><b>bold</b></u> <br>
 > do you understand?
 1. yes
 2. no
@@ -43,6 +43,6 @@ term
 
 - [x] stay awake
 - [ ] take a nap
-- [ ] :sob: x^2^
-- [x] drink H~2~0
+- [ ] :sob: x<sub>2</sub>
+- [x] drink H<sup>2</sup>0
 
