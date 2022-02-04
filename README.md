@@ -15,7 +15,7 @@ I'm feeling <b>bold</b><br>
 a horizontal rule
 ---
 [google](https://www.google.com/)
-![some alt text]image.jpg
+![mountains at night](mountains.png)
 
 | oh | look | a | table |
 | --- | --- | --- | --- |
