@@ -43,6 +43,6 @@ term
 
 - [x] stay awake
 - [ ] take a nap
-- [ ] :sob: x<sub>2</sub>
-- [x] drink H<sup>2</sup>0
+- [ ] :sob: x<sup>2</sup>
+- [x] drink H<sub>2</sub>0
 
